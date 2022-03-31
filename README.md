@@ -34,4 +34,6 @@ Applied Bioinformatics - The Scripps Research Institute ( SuLab )
 https://github.com/SuLab/Applied-Bioinformatics
 
 https://github.com/kipkurui/Python4Bioinformatics
+
+https://github.com/guma44/GEOparse
 https://github.com/czbiohub/learn-bioinformatics
