@@ -37,3 +37,16 @@ https://github.com/kipkurui/Python4Bioinformatics
 
 https://github.com/guma44/GEOparse
 https://github.com/czbiohub/learn-bioinformatics
+
+Shiny-iAtlas is an interactive web portal that provides multiple analysis modules to visualize and explore
+immune response characterizations across cancer types. 
+https://isb-cgc.shinyapps.io/shiny-iatlas/
+
+EstimAte Systems ImmunE Response (EaSIeR)
+https://github.com/olapuentesantana/easier_manuscript
+
+https://www.nature.com/articles/s41568-020-0290-x
+
+
+
+
