@@ -47,6 +47,6 @@ https://github.com/olapuentesantana/easier_manuscript
 
 https://www.nature.com/articles/s41568-020-0290-x
 
-
-
+TCGA Cancers Selected for Study 
+https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/studied-cancers
 
