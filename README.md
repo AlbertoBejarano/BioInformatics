@@ -93,3 +93,6 @@ https://rpubs.com/pranali018/SSGSEA
 
 Using RNA-seq Datasets with GSEA
 https://software.broadinstitute.org/cancer/software/gsea/wiki/index.php/Using_RNA-seq_Datasets_with_GSEA
+
+Converting Expression Data into a GenePattern input file format
+https://www.youtube.com/watch?v=_zpH-DgE33U&ab_channel=GenePattern
