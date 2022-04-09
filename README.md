@@ -72,4 +72,15 @@ https://github.com/zwj-tina/GEPIA2021
 The Python package gepia
 http://gepia2.cancer-pku.cn/#api
 
+Introduction to R programming for data science (Dr. Francesca Finotello)
+https://github.com/FFinotello/Rcourse
+
+The Easiest Way to Create an Interactive Dashboard in Python
+Turn Pandas pipelines into a dashboard using hvPlot .interactive
+https://towardsdatascience.com/the-easiest-way-to-create-an-interactive-dashboard-in-python-77440f2511d1
+
+
+
+
+
 
