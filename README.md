@@ -52,3 +52,24 @@ https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/t
 
 Analyzing and visualizing TCGA data
 https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/analysis.html#TCGAanalyze_DEA__TCGAanalyze_LevelTab:_Differential_expression_analysis_(DEA)
+
+Computational Genomics with R
+https://compgenomr.github.io/book/
+
+Liquid Brain
+https://www.youtube.com/channel/UCrpq9hzMQSq0ldVcXlLgpvQ
+ 
+Survival Analysis on Cancer data | RStudio Tutorial
+https://www.youtube.com/watch?v=oyAn5B-vLus
+https://github.com/brandonyph/Survival-Analysis-demo
+ 
+https://bbisr.shinyapps.winship.emory.edu/SurvivalGenie/
+
+http://gepia.cancer-pku.cn/
+
+https://github.com/zwj-tina/GEPIA2021
+
+The Python package gepia
+http://gepia2.cancer-pku.cn/#api
+
+
