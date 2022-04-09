@@ -96,3 +96,8 @@ https://software.broadinstitute.org/cancer/software/gsea/wiki/index.php/Using_RN
 
 Converting Expression Data into a GenePattern input file format
 https://www.youtube.com/watch?v=_zpH-DgE33U&ab_channel=GenePattern
+
+GSVA: gene set variation analysis
+http://bioconductor.org/packages/release/bioc/vignettes/GSVA/inst/doc/GSVA.html
+http://bioconductor.org/packages/release/bioc/html/GSVA.html
+https://rdrr.io/bioc/GSVA/
