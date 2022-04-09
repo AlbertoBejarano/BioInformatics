@@ -91,4 +91,5 @@ https://www.gsea-msigdb.org/gsea/index.jsp
 SSGSEA
 https://rpubs.com/pranali018/SSGSEA
 
-
+Using RNA-seq Datasets with GSEA
+https://software.broadinstitute.org/cancer/software/gsea/wiki/index.php/Using_RNA-seq_Datasets_with_GSEA
