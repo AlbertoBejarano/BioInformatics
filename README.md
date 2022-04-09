@@ -80,7 +80,15 @@ Turn Pandas pipelines into a dashboard using hvPlot .interactive
 https://towardsdatascience.com/the-easiest-way-to-create-an-interactive-dashboard-in-python-77440f2511d1
 
 
+Single Sample Gene Enrichment Analysis Taskforce
+https://enrichmentmap.readthedocs.io/en/docs-2.2/Tutorial_GSEA.html
 
+Single Sample Gene Enrichment Analysis
+https://ayguno.github.io/curious/portfolio/GSEAtaskforce.html
 
+https://www.gsea-msigdb.org/gsea/index.jsp
+
+SSGSEA
+https://rpubs.com/pranali018/SSGSEA
 
 
