@@ -101,3 +101,9 @@ GSVA: gene set variation analysis
 http://bioconductor.org/packages/release/bioc/vignettes/GSVA/inst/doc/GSVA.html
 http://bioconductor.org/packages/release/bioc/html/GSVA.html
 https://rdrr.io/bioc/GSVA/
+
+Overall Survival Curves for TCGA and Tothill by RD Status
+https://bioinformatics.mdanderson.org/Supplements/ResidualDisease/Reports/osCurves.html
+
+TCGAportal 
+http://tumorsurvival.org/index.html
